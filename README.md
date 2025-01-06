@@ -31,10 +31,10 @@ const ShakaPratama = {
 ```javascript
 const developerLifeCycle = {
   dailyRoutine: [
-    "🍽️ Makan Secukupnya",
-    "💻 Ngoding Dengan Passion",
-    "☕ Minum Kopi Programmer",
-    "😴 Istirahat Secukupnya"
+    "🍽️ Makan",
+    "💻 Ngoding",
+    "☕ Ngopi",
+    "😴 Turu"
   ],
   currentMission: "Transform Ideas into Digital Reality"
 };
