@@ -22,6 +22,7 @@ const ShakaPratama = {
   funFact: "Code is poetry in motion, and every developer is an artist who paints his work. 🎨✨",
   currentStatus: {
     studying: "Kehidupan 🌱",
+    founderOf: "ThePixelWebsmith"
     staffIn: "Re:Memories"
   };
 ```
