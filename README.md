@@ -1,3 +1,6 @@
+ <!-- <div align="center">
+  <img src="https://i.pinimg.com/originals/8e/c6/f1/8ec6f1630c1f40394878290b96c74e6f.gif" width="100%"/>
+</div> -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Shaka.Pratama();&fontSize=70&fontAlignY=35" width="100%"/>
 </div>
@@ -9,6 +12,7 @@ const ShakaPratama = {
   name: "I Gede Shaka Pratama",
   role: "Frontend Web Developer",
   passion: "Crafting Elegant Digital Experiences",
+  faforiteThings: "Pixel Arts",
   location: "Badung, Bali, Indonesia",
   contactMe: {
     email: "biz.shakapratama@gmail.com",
