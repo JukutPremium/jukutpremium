@@ -10,7 +10,7 @@
 ```javascript
 const ShakaPratama = {
   name: "I Gede Shaka Pratama",
-  role: "Frontend Web Developer",
+  role: "Fullstack Web Developer",
   passion: "Crafting Elegant Digital Experiences",
   faforiteThings: "Pixel Arts",
   location: "Badung, Bali, Indonesia",
@@ -26,7 +26,7 @@ const ShakaPratama = {
   funFact: "Code is poetry in motion, and every developer is an artist who paints his work. 🎨✨",
   currentStatus: {
     studying: "Kehidupan 🌱",
-    founderOf: "ThePixelWebsmith",
+    founderOf: "Todora Websmith",
     staffIn: "Re:Memories"
   };
 ```
