@@ -12,14 +12,15 @@ const ShakaPratama = {
   name: "I Gede Shaka Pratama",
   role: "Fullstack Web Developer",
   passion: "Crafting Elegant Digital Experiences",
-  faforiteThings: "Pixel Arts",
+  favoriteThings: "Pixel Arts",
   location: "Badung, Bali, Indonesia",
   contactMe: {
     email: "biz.shakapratama@gmail.com",
     portfolio: "https://shakapratama.vercel.app",
     socials: {
-      instagram: "@igedeshakapratama_",
-      discord: "rememories.id/discord"
+      discord: "@jukutpremium",
+      instagram: "https://www.instagram.com/igedeshakapratama_",
+      linkedIn: "https://www.linkedin.com/in/shakapratama"
     }
   }
 },
@@ -31,7 +32,7 @@ const ShakaPratama = {
   };
 ```
 
-> ## 🔥 My Developer Life Simulator
+<!-- > ## 🔥 My Developer Life Simulator
 
 ```javascript
 const developerLifeCycle = {
@@ -52,7 +53,7 @@ function dailyDeveloperLife() {
     takeShortBreak();
   }
 }
-```
+``` -->
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=200&section=header&text=Don't%20Forget%20Your%20Semicolon();&fontSize=45&fontAlignY=35" width="100%"/>
