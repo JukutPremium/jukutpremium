@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/shakapratama"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://shakapratama.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-0F2027?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="https://www.instagram.com/igedeshakapratama_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
-  <a href="https://dsc.gg/yumearchive"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
+  <a href="https://discordapp.com/users/877202123346038785/"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 
   <br/><br/>
 
@@ -32,6 +32,7 @@ I'm **I Gede Shaka Pratama**, a Fullstack Web Developer based in Badung, Bali, I
 
 <br>
 
+<a href="https://discord.gg/j5EzrZmPzv"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/todorawebsmith"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/share/1JP2ERyoSR/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
 <a href="https://www.tiktok.com/@todorawebsmith"><img src="https://img.shields.io/badge/-TikTok-000000?style=flat-square&logo=tiktok&logoColor=white"/></a>
@@ -44,6 +45,7 @@ I'm **I Gede Shaka Pratama**, a Fullstack Web Developer based in Badung, Bali, I
 
 <br>
 
+<a href="https://discord.gg/rememories"><img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white"/></a>
 <a href="https://twitter.com/Rememories_id"><img src="https://img.shields.io/badge/-Twitter-000000?style=flat-square&logo=x&logoColor=white"/></a>
 <a href="https://www.instagram.com/rememories.id"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/rememories.id/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white"/></a>
