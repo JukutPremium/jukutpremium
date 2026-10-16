@@ -108,8 +108,8 @@ I'm **I Gede Shaka Pratama**, a Fullstack Web Developer based in Badung, Bali, I
 | Project | Description | Tech | Link |
 |---|---|---|---|
 | *Wuffy* | *A bot that shows which music bots are free to use.* | `JavaScript` `discord.js` `PostgreSql` | [Live](https://top.gg/bot/1500363237676285952) · [Private Repo](#) |
-| *----* | *----* | `----` | [Live](#) · [Repo](#) |
-| *----* | *----* | `----` | [Live](#) · [Repo](#) |
+| *Luma Kuma* | *Photobooth web based* | `----` | [Live](https://lumakuma.vercel.app/) · [Repo](#) |
+| *----* | *----* | `----` | [Live](#) · [Private Repo](#) |
 
 More on my [portfolio](https://shakapratama.vercel.app/works).
 
