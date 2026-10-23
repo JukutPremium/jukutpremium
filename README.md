@@ -4,7 +4,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Shaka.Pratama();&fontSize=70&fontAlignY=35&fontColor=ffffff" width="100%"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Fullstack+Web+Developer;Crafting+Elegant+Digital+Experiences;Based+in+Bali%2C+Indonesia" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2C5364&center=true&vCenter=true&width=600&lines=Web+Developer;Crafting+Elegant+Digital+Experiences;Based+in+Bali%2C+Indonesia" alt="Typing SVG" />
 
   <br/>
 
@@ -24,7 +24,7 @@
 
 ## Who I Am
 
-I'm **I Gede Shaka Pratama**, a Fullstack Web Developer based in Badung, Bali, Indonesia. My focus leans toward the front-end: responsive interfaces, clean component architecture, and interactions that feel deliberate rather than default.
+I'm **I Gede Shaka Pratama**, a Web Developer based in Badung, Bali, Indonesia. My focus leans toward the front-end: responsive interfaces, clean component architecture, and interactions that feel deliberate rather than default.
 
 ## Currently
 <details>
